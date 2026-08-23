@@ -1,5 +1,3 @@
-doc/html/*
-doc/xml/*
-doc/warnings_nrfx.txt
-bsp/*/
-!bsp/stable
+build_midi.elf
+.target
+.target-locked
